@@ -11,7 +11,7 @@ $(document).ready(function () {
     }
      var credits = 100, bet, win;
      var pos1,pos2,pos3;
-     var wildCard = 10;
+     var wildCard = 10; 
      var bonusGame;
     $(".button").on('click', function(e){
         e.preventDefault();
